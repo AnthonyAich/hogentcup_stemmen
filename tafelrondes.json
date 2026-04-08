@@ -1,22 +1,58 @@
 [
     {
         "id": 1,
-        "name": "Music Maestro"
+        "name": "Anthony Aichouche"
     },
     {
         "id": 2,
-        "name": "Fotoronde"
+        "name": "Heaven Cannoot"
     },
     {
         "id": 3,
-        "name": "Heaven's Raster"
+        "name": "Joren Vandaele"
     },
     {
         "id": 4,
-        "name": "Raad het fragment"
+        "name": "Arne Buys"
     },
     {
         "id": 5,
-        "name": "Anagrammen"
+        "name": "Rosie Dhondt"
+    },
+    {
+        "id": 6,
+        "name": "Dries Baelen"
+    },
+    {
+        "id": 7,
+        "name": "Bram Coenye"
+    },
+    {
+        "id": 8,
+        "name": "Caitlin Ellaby"
+    },
+    {
+        "id": 9,
+        "name": "Emma Boesmans"
+    },
+    {
+        "id": 10,
+        "name": "Lennert Lagrainge"
+    },
+    {
+        "id": 11,
+        "name": "Lore Vriens"
+    },
+    {
+        "id": 12,
+        "name": "Mohamed Chater"
+    },
+    {
+        "id": 13,
+        "name": "Nathan Overmeire"
+    },
+    {
+        "id": 14,
+        "name": "Niels Wauters"
     }
 ]
